@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "kerola";
+    src: url("assets/fonts/kerola.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "kerola-bold";
+    src: url("assets/fonts/kerola-bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "kerola-light";
+    src: url("assets/fonts/kerola-light.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "kerola-normal";
+    src: url("assets/fonts/kerola-normal.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
